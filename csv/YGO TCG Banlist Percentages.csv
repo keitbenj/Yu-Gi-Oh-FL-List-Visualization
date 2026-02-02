@@ -1,12 +1,11 @@
 Card Type,Forbidden,Limited,Semi-Limited,Total
 Normal,0,4,0,4
-Effect,76,147,99,318
-Ritual,0,6,3,9
+Effect,77,150,100,327
+Ritual,0,7,3,10
 Fusion,7,9,2,18
-Synchro,13,17,7,37
-Xyz,23,12,2,36
+Synchro,14,17,7,38
+Xyz,23,12,2,37
 Pendulum,7,10,7,24
-Link,26,9,0,35
-Spell,47,121,66,234
-Trap,21,43,25,88
-
+Link,27,12,0,39
+Spell,47,123,66,236
+Trap,22,43,25,90
